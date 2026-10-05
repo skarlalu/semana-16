@@ -1,0 +1,9 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Café Americano",
+        "categoria": "Bebidas",
+        "precio": 2.5,
+        "stock": 50
+    }
+]
